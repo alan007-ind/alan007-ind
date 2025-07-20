@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Indrajit (aka Alan007)
 
-<!--
-**alan007-ind/alan007-ind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year student in Electrical and Electronics Engineering at Thiagarajar College of Engineering, Madurai.  
+🔐 Aspiring Cybersecurity Analyst | Ethical Hacker | Network Explorer  
+🧠 Currently deep diving into system internals, Linux tools, and cybersecurity labs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Learning Path
+
+- ✅ Ethical Hacking (SNA Course)
+- ✅ Python Networking – Reverse Shells, DoS
+- ✅ Server Configuration & Apache Hardening
+- ✅ Wireshark, Nmap, Burp Suite (beginner-level)
+
+---
+
+## 🔧 Practice Projects (for learning)
+
+- ⚙️ Custom TCP Client-Server in Python  
+- 🧨 Basic DoS Attack Simulation using Threads  
+- 🐚 Reverse Shell Implementation (Command Execution)
+
+> ⚠️ _All code is for educational use only. Not intended for malicious purposes._
+
+---
+
+## 🎯 My Goal
+
+To get a **cybersecurity internship** or open-source opportunity  
+where I can contribute, learn, and grow in the real-world security domain.
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **indrajit5858jit@gmail.com**
+- 🔗 LinkedIn: _(Coming Soon)_
+
+---
+
+## 🔍 Explore My Work
+
+Check my pinned repositories for:
+
+- Python scripts related to ethical hacking
+- Network tool experiments
+- Cybersecurity learning logs
+
+---
+
+> “Every system tells a story — I’m here to understand it deeply and secure it ethically.”
