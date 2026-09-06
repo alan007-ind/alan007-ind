@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Indrajit (aka Alan007)
 
 🎓 Final-year student in Electrical and Electronics Engineering at Thiagarajar College of Engineering, Madurai.  
-🔐 Aspiring Cybersecurity Analyst | Ethical Hacker | Network Explorer  
+🔐 Aspiring |Embedded systems |Cybersecurity Analyst | Ethical Hacker | Network Explorer  |
 🧠 Currently deep diving into system internals, Linux tools, and cybersecurity labs.
 
 ---
@@ -9,9 +9,11 @@
 ## 🧪 Learning Path
 
 - ✅ Ethical Hacking (SNA Course)
+- ✅ Firmware Developer
 - ✅ Python Networking – Reverse Shells, DoS
-- ✅ Server Configuration & Apache Hardening
-- ✅ Wireshark, Nmap, Burp Suite (beginner-level)
+
+
+  
 
 ---
 
@@ -35,7 +37,7 @@ where I can contribute, learn, and grow in the real-world security domain.
 ## 📫 Contact Me
 
 - 📧 Email: **indrajit5858jit@gmail.com**
-- 🔗 LinkedIn: _(Coming Soon)_
+- 🔗 LinkedIn: www.linkedin.com/in/indrajit-murugan
 
 ---
 
